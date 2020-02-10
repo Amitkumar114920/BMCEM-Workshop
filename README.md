@@ -7,4 +7,6 @@ Add your name to the list below :-
 - James Gosling
 - Guido van Rossum
 - Amit Kumar
+-Nishant Sharma
+-Ashaya Sinha
 `
